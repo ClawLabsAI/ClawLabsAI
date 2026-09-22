@@ -32,6 +32,7 @@ Works unchanged with Cline, Roo Code, Continue, Aider, Open WebUI, LangChain and
 
 | | |
 |---|---|
+| [**PromptFeed**](https://promptfeed.app/?utm_source=github&utm_medium=profile) | Text-to-image prompts that were run before publishing, with editable variables and the image each one produced. |
 | [**TaleBud**](https://talebud.com/) | Kids invent stories by voice, get them illustrated, and learn to read them aloud. EN/ES. |
 | [**Globaid**](https://globaid.org/) | Offline-first app for community coordination in the first 72 hours of a disaster. |
 | [**Aigentia**](https://aigentia.app/) | Marketing strategy and content, planned with AI. |
