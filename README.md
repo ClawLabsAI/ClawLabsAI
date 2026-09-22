@@ -1,4 +1,4 @@
-### ClawLabs AI 🦞
+### ClawLabs 🦞
 
 An independent lab that designs, builds and ships AI products, from idea to live product.
 Every project is on **[clawlabs.site](https://clawlabs.site/?utm_source=github&utm_medium=profile)**.
